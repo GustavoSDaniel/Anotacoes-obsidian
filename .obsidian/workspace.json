@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,12 +175,17 @@
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1e104ccae49272d",
+  "active": "e5124e51544dd7ac",
   "lastOpenFiles": [
+    "Programação/JavaScript",
+    "Programação/SQL",
     "2025-03-30.md",
-    "README.md"
+    "README.md",
+    "Programação/Java",
+    "Programação"
   ]
 }
