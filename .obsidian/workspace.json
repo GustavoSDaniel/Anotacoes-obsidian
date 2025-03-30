@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ccff370b13f3774",
+        "id": "5b54de78855f1e05",
         "type": "tabs",
         "children": [
           {
-            "id": "1107d5e186829b2e",
+            "id": "1d612ed8cce23f8e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -142,6 +142,16 @@
               },
               "icon": "lucide-list",
               "title": "Sumário"
+            }
+          },
+          {
+            "id": "1107d5e186829b2e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           },
           {
