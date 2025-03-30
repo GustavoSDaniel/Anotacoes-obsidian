@@ -74,20 +74,15 @@ console.log(novaFruta);
 
 // SLICE ELE COPIA UMA PARTE DA MATRIX
 
-  
-
 let novasFrutas = ["maça", "banana", "laranja", "PERA"];
 
 let sliceArray = novasFrutas.slice(1,3); // VAI PEGAR A POSIÇÃO 1 E 2 *NÃO PEGA A ULTIMA POSIÇÃO NESSE CASO A POSIÇÃO 3
 
 console.log(novasFrutas);
 
-  
-
 //SPLICE ADICIONA OU REMOVE ELEMENTOS ESPECIFICOS NO INDECE
 
   
-
 frutas.splice(1,2); // <= VAI DELETAR OS 2 ELEMENTOS QUE ESTÁ NESSA POSIÇÃO
 
 let deletandoFrutas = frutas.splice(1,2); // PARA MOSTRAR QUAIS ELEMENTOS FORAM DELETADOS
@@ -95,8 +90,6 @@ let deletandoFrutas = frutas.splice(1,2); // PARA MOSTRAR QUAIS ELEMENTOS FORAM 
 console.log(frutas);
 
 console.log(deletandoFrutas);
-
-  
 
 let adicionandoFrutas = frutas.splice(1,2, "NOVA FRUTA NA POSIÇÃO 1", "NOVA FRUTA NA POSIÇÃO 2"); // PARA MOSTRAR QUAIS ELEMENTOS FORAM FORAM ADICIONADOS
 
